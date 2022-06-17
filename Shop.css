@@ -1,4 +1,4 @@
-.u-section-1 {
+ .u-section-1 {
   background-image: linear-gradient(0deg, rgba(0,0,0,0.15), rgba(0,0,0,0.15)), url("images/f3b6a35c3b89307031d75305036d031d.jpeg");
   background-position: 50% 50%;
 }
@@ -376,7 +376,7 @@
     margin-left: 6px;
     margin-right: 6px;
   }
-}.u-section-3 {
+} .u-section-3 {
   background-image: none;
   min-height: 877px;
 }
